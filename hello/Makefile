@@ -1,5 +1,5 @@
-CPPFLAGS += -I /usr/include/python3.8
-LIBS=-lpython3.8
+CPPFLAGS += -I/mnt/c/msys64/mingw64/include/python3.9
+LIBS=-lpython3.9
 
 COMPOSANT = hello_component
 
